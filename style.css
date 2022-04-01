@@ -11,4 +11,11 @@ h1 {
   background-color: magenta;
   text-align: center;
   font-size: 175px;
+  color: whitesmoke;
+}
+
+p {
+  text-align: center;
+  color: magenta;
+  font-size: 70px;
 }
