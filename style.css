@@ -1,3 +1,14 @@
-.wow {
-  width: 100px;
+
+div {
+  background-color: whitesmoke;
+  width: 800px;
+  border: 2px solid black;
+  border-radius: 25px;
+  margin: auto;
+}
+
+h1 {
+  background-color: magenta;
+  text-align: center;
+  font-size: 175px;
 }
